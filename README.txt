@@ -1,3 +1,7 @@
+CLI Spotify using Python and sqlite. 
+
+--------------------------------------
+
 To run:
 
 - navigate to minip1db.py
